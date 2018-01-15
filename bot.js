@@ -17,4 +17,4 @@ client.on('message', message => {
 });
 
 // THIS  MUST  BE  THIS  WAY
-client.login(process.env.NDAyNDE0OTg0Njc3Njg3Mjk2.DT4dww.gFA0vwYeuTndwVXG4yERG_zryQI);
+client.login(process.env.BOT_TOKEN);
